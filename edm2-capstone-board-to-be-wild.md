@@ -6,6 +6,6 @@ EDM II Capstone
 This page contains my EDM II Capstone report for the project Board To
 Be Wild.
 ## Artifact Link
-[Open My EDM II Capstone Report](EDM-II-Capstone.pdf)
+[Open My EDM II Capstone Report](EDM-II-Capstone.pdf.md)
 [Back to EDM II](edm2.md)
 [Back to Home Page](README.md)
